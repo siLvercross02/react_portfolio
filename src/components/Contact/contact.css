@@ -1,0 +1,17 @@
+.social-media-icon {
+    width: 9%;
+}   
+
+a.adjust-social {
+    margin-right: 2rem !important;
+}
+
+@media (max-width: 576px) {
+    .social-media-icon {
+        width: 10% !important;
+    }
+
+    .contact-sm.py-5 {
+        padding-bottom: 0 !important;
+    }
+}

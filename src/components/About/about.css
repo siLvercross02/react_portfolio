@@ -1,0 +1,15 @@
+.educImg {
+    width: 75% !important;
+}
+
+/* Working Exp */
+.exp-text {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+@media (max-width: 576px) {
+    .sm-bot-adjust {
+        padding-bottom: 1rem !important;
+    }
+}

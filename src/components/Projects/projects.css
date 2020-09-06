@@ -1,0 +1,34 @@
+.projects {
+    background: #3A1F5D !important;
+}
+
+.bg-secondary-custom {
+    opacity: 0;
+    background: #3c444b;
+    transition: .8s ease;
+}
+
+.card:hover .bg-secondary-custom {
+    opacity: 1;
+}
+
+.card-project {
+    background: transparent !important;
+    border: 0px solid rgba(0,0,0,.125) !important;
+    border-radius: 2rem !important;
+}
+
+.img-proj, .overlay-radius {
+    border-radius: 2rem !important;
+}
+
+@media (max-width: 576px) {
+    .card-sm-adjust {
+        margin-top: 3rem !important;
+        margin-bottom: 3rem !important;
+    }
+
+    .overlay-sm.mt-5 {
+        margin-top: 0 !important;
+    }
+}
