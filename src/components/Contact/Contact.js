@@ -8,7 +8,6 @@ import GMAIL from '../../images/gmail-logo-new.png';
 import GITHUB from '../../images/github-logo-new.png';
 import LINKEDIN from '../../images/linkedin-logo-new.png';
 
-
 const Contact = () => {
     return(
         <section className="py-5" id="contact">
@@ -24,7 +23,9 @@ const Contact = () => {
                         <h5 className="text-center font-weight-bold">For any inquiries get in touch and contact me</h5>
                         <div className="mt-5">
                             <ThemeProvider>
-                                <Button variant="theme pl-5 pr-5 font-weight-bold" href="mailto: joemari.supan18@gmail.com">GET STARTED</Button>
+                                <Button variant="theme pl-5 pr-5 font-weight-bold"  href="mailto:joemari.supan18@gmail.com">
+                                    GET STARTED
+                                </Button>
                             </ThemeProvider>
                         </div> 
                     </Col>
