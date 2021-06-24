@@ -14,10 +14,10 @@ import XD from '../../images/xd-64.png';
 
 
 const Skills = () => {
-    const htmlScore = 90;
-    const cssScore =  89;
-    const jsScore = 70;
-    const reactScore = 60;
+    const htmlScore = 95;
+    const cssScore =  95;
+    const jsScore = 80;
+    const reactScore = 70;
     const bsScore = 90;
     const phpScore = 70;
     const psScore = 70;
