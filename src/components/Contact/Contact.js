@@ -33,16 +33,16 @@ const Contact = () => {
                 <Row>
                     <Col lg={12} className="contact-sm py-5">
                         <div className="flex-row text-center">  
-                            <a className="adjust-social" href="https://www.facebook.com/siLvercross02/" target="_blank">
+                            <a className="adjust-social" href="https://www.facebook.com/siLvercross02/" rel="noopener noreferrer" target="_blank">
                                 <Image src={FB} className="social-media-icon"/>
                             </a>
-                            <a className="adjust-social" href="mailto: joemari.supan18@gmail.com" target="_blank">
+                            <a className="adjust-social" href="mailto: joemari.supan18@gmail.com" rel="noopener noreferrer" target="_blank">
                                 <Image src={GMAIL} className="social-media-icon"/>
                             </a>
-                            <a className="adjust-social" href="https://github.com/siLvercross02" target="_blank">
+                            <a className="adjust-social" href="https://github.com/siLvercross02" rel="noopener noreferrer" target="_blank">
                                 <Image src={GITHUB} className="social-media-icon"/>
                             </a>
-                            <a className="#" href="https://www.linkedin.com/in/joemari-supan/" target="_blank">
+                            <a className="#" href="https://www.linkedin.com/in/joemari-supan/" rel="noopener noreferrer" target="_blank">
                                 <Image src={LINKEDIN} className="social-media-icon"/>
                             </a>  
                         </div>
