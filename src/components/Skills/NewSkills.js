@@ -1,13 +1,5 @@
 import React from "react";
-import {
-  Container,
-  Row,
-  Col,
-  Media,
-  Image,
-  ProgressBar,
-  Card,
-} from "react-bootstrap";
+import { Container, Row, Col, Image, Card } from "react-bootstrap";
 
 import "../Skills/skills.css";
 // Images
