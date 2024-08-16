@@ -22,6 +22,10 @@ const Projects = () => {
             <h3 className="text-white text-center font-weight-bold">
               PROJECTS
             </h3>
+            <p className="text-white text-center font-weight-bold">
+              This projects consist of experience in my previous company,
+              freelance work and personal projects.
+            </p>
           </Col>
         </Row>
         <Row>
