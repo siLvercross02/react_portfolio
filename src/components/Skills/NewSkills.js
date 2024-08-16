@@ -5,8 +5,6 @@ import "../Skills/skills.css";
 import { skillData } from "../../contants";
 
 const NewSkills = () => {
-  console.log("skillData", skillData);
-
   return (
     <section className="py-5" id="skills">
       <Container>
