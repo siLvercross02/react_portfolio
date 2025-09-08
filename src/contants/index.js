@@ -20,7 +20,8 @@ import communifi from "../images/communifi.png";
 import communitalk from "../images/communitalk.png";
 import klickStream from "../images/klickstreamzone.png";
 import amazon from "../images/amazon.PNG";
-import netflix from "../images/netflix.PNG";
+import bonlaundry from "../images/bon-laundry-web.png";
+import bonlaundryAdmin from "../images/bon-laundry-admin.png";
 import affinity from "../images/Affinity-portfolio.PNG";
 import gpt3 from "../images/gpt3-app.png";
 import incon from "../images/incon-website.png";
@@ -119,60 +120,66 @@ export const projectData = [
   },
   {
     id: 2,
-    name: "Meta Phil-Tech Corp",
-    img: meta,
-    link: "https://metaphil-tech.com/",
+    name: "Bon Laundry Station",
+    img: bonlaundry,
+    link: "https://bonnesmain.vercel.app/",
   },
   {
     id: 3,
-    name: "Affinity Capital Corp",
-    img: affinity,
-    link: "https://affinitycorp.net/",
+    name: "Bon Laundry Admin Dashboard",
+    img: bonlaundryAdmin,
+    link: "https://bonlaundry-admin.vercel.app/",
   },
   {
     id: 4,
+    name: "Meta Phil-Tech Corp",
+    img: meta,
+    link: "https://meta-phil-corp.vercel.app/",
+  },
+  {
+    id: 5,
     name: "GPT Demo Page",
     img: gpt3,
     link: "https://gpt3-demo.netlify.app/",
   },
   {
-    id: 5,
+    id: 6,
     name: "Car Showcase Website",
     img: carShowcase,
     link: "https://nextjs-car-showcase-two.vercel.app/",
   },
   {
-    id: 6,
+    id: 7,
+    name: "Affinity Capital Corp",
+    img: affinity,
+    link: "https://affinitycorp.net/",
+  },
+  {
+    id: 8,
     name: "Amazon Clone Website",
     img: amazon,
     link: "https://clone-a6e07.web.app/",
   },
   {
-    id: 7,
-    name: "Netflix Clone Website",
-    img: netflix,
-    link: "https://netflix-clone-697b8.web.app/",
-  },
-  {
-    id: 8,
+    id: 9,
     name: "Klick VPN",
     img: klickVPN,
     link: "https://klickvpn.netlify.app/",
   },
   {
-    id: 9,
+    id: 10,
     name: "Communifi",
     img: communifi,
     link: "https://communifi.netlify.app/",
   },
   {
-    id: 10,
+    id: 11,
     name: "communitalk",
     img: communitalk,
     link: "https://communitalk.netlify.app/",
   },
   {
-    id: 11,
+    id: 12,
     name: "Klick Streamzones",
     img: klickStream,
     link: "https://klickstreamzones.netlify.app/",

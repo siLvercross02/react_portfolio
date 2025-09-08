@@ -55,7 +55,7 @@ const WorkingExp = () => {
               </div>
               <div className="pb-4">
                 <p className="exp-text mb-0">
-                  Indicia Worldwide: CRO Developer
+                  Indicia Worldwide: Front-End/CRO Developer
                 </p>
                 <p className="exp-text">January 2024 - Present</p>
               </div>
